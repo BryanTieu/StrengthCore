@@ -49,6 +49,8 @@ You can clone the repository if you have access from the the code section of the
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
 quasar dev
+or
+npx quasar dev
 ```
 
 ### Customize the configuration
