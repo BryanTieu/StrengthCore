@@ -44,6 +44,7 @@ yarn
 npm install -g @quasar/cli
 ```
 # Clone the repository or submit a pull request
+You can clone the repository if you have access from the the code section of the github page or from Visual Studio/IDE. Submit a pull above if that is what you prefer.
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
 ```bash
